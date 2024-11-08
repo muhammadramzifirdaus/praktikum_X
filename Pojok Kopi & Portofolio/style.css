@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+nav {
+    background-color:  #ea7b44;
+}
+
+.navi1 {
+    text-align: center;
+}
+
+.navi1>li {
+    display:inline;
+  padding: 30px;
+ text-decoration: none;
+}
+.navi1>li>a {
+    text-decoration: none;
+    position: relative;
+    top: -40px;
+    color: white;
+}
+  
+
+.navi1>li>a:hover {
+        border: 1px solid white;
+        padding: 10px;
+
+    }
+
+.logo1 {
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+.logo2 {
+    position: relative;
+    top: -150px;
+    left: 820px; 
+}
+
+.slogan {
+    position: relative;
+    top: 130px;
+    left: 150px; 
+    font-size: 60px;
+}
+
+.logo3 {
+    position: relative;
+    top: -40px;
+    left: 900px; 
+}
+
+.description {
+    position: relative;
+    top: -230px;
+    left: 60px; 
+}
+
+.judul {
+    position: relative;
+    top: 70px;
+    left: 60px; 
+}
+
+#product {
+    position: relative;
+    top: 50px;
+    left: 60px; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  input[type="submit"] {
+    background-color: #ea7b44;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+
+ 
